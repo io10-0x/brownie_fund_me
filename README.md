@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/io10-0x/brownie_fund_me">
-    <img src="images/logo.png" alt="Logo" width="150" height="150">
+    <img src="images/Logo.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">Fund Me Smart Contract </h3>
